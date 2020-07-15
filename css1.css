@@ -1,0 +1,135 @@
+body{
+    background-image: linear-gradient(black,rgb(19,48,98));
+}
+h1.headings{
+    background-image: linear-gradient(rgb(19,48,98),black);
+    color: white;
+    height: 80px;
+    padding-top: 15px;
+    padding-left: 250px;
+    margin: 0%;
+}
+.blue{
+    color: rgb(88,131,215);
+}
+
+.fad{
+    color: rgb(88,131,215);
+    padding-left: 300px;
+    size: 12px;
+}
+nav{
+    padding-top: 0px;
+    background-color: rgb(28, 71, 142);
+}
+ul.navbar-nav{
+    padding-left: 250px;
+    color: white;
+}
+
+a.nav-link{
+    color: white;
+}
+.card{
+    padding-top: 50px;
+}
+div.card{
+    width: 48rem;
+    height: 28rem;
+}
+.colourful{
+    color: rgb(88,131,215);
+}
+.side{
+    display: inline;
+    color: white;
+}
+.leftside {
+    width: 250px;
+    height: 500px;
+	margin-left: 6%;
+	float: left;
+	background-color: rgb(28, 71, 142);
+	border: 0.05px solid white;
+    border-radius: 5%;
+    padding-right: 1%;
+}
+#unique{
+    display: block;
+	color: white;
+    border-bottom-style: solid;
+    border-bottom-width: 4px;
+	padding-top: 7.5%;
+	padding-left: 1.5%;
+	padding-bottom: 5%;
+}
+.leftside li.side {
+	display: block;
+	color: white;
+    border-bottom-style: dotted;
+    border-bottom-width: 2px;
+	padding-top: 5.5%;
+	padding-left: 0%;
+	padding-bottom: 5.5%;
+}
+.description {
+	background-color: white;
+	margin-left: 25%;
+	margin-right: 20%;
+    border-color: black;
+    padding-left: 2%;
+}
+.navbar{
+    margin-bottom: 1%;
+}
+
+#corner1{
+    border-radius: 25px;
+    border: 5px solid rgb(29, 71, 139);
+}
+
+.leftside a{
+    color: white;
+}
+th{
+    color: rgb(111, 148, 212);
+}
+.profile{
+    background-color: white;
+    margin-left: 25%;
+    margin-top: 1%;
+    margin-bottom: 5%;
+	margin-right: 20%;
+    border-color: black;
+    padding-left: 2%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+#corner2{
+    border-radius: 25px;
+    border: 5px solid rgb(29, 71, 139);
+}
+.row{
+	
+	width:100%;
+	display: flex;
+	flex-wrap: wrap;
+}
+.column-1
+{
+	
+	width:60%;
+	margin:0;
+	float:left;
+}
+.column-2{
+	width:30%;
+	margin:0;
+}
+.imageicon{
+	margin-top: 55px;
+	width: 200px;
+    height: 20px;
+    display: block;
+    text-align: center;
+}
